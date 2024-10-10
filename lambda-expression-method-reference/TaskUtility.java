@@ -1,5 +1,5 @@
 public class TaskUtility {
-    public static void main(String[] args) {
+    public static void startTask() {
         System.out.println("Starting the task...");
     }
 
@@ -10,4 +10,5 @@ public class TaskUtility {
     public static void resetTask() {
         System.out.println("Resetting the task.....");
     }
+    
 }
